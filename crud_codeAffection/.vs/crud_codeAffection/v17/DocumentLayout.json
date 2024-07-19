@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29E69073-72E4-4E1C-96F7-79AD23DCD3A1}|crud_codeAffection.csproj|d:\\github\\donationcrud\\crud_codeaffection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E69073-72E4-4E1C-96F7-79AD23DCD3A1}|crud_codeAffection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E69073-72E4-4E1C-96F7-79AD23DCD3A1}|crud_codeAffection.csproj|d:\\github\\donationcrud\\crud_codeaffection\\controllers\\dcandidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E69073-72E4-4E1C-96F7-79AD23DCD3A1}|crud_codeAffection.csproj|solutionrelative:controllers\\dcandidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E69073-72E4-4E1C-96F7-79AD23DCD3A1}|crud_codeAffection.csproj|d:\\github\\donationcrud\\crud_codeaffection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29E69073-72E4-4E1C-96F7-79AD23DCD3A1}|crud_codeAffection.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E69073-72E4-4E1C-96F7-79AD23DCD3A1}|crud_codeAffection.csproj|d:\\github\\donationcrud\\crud_codeaffection\\models\\donationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E69073-72E4-4E1C-96F7-79AD23DCD3A1}|crud_codeAffection.csproj|solutionrelative:models\\donationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E69073-72E4-4E1C-96F7-79AD23DCD3A1}|crud_codeAffection.csproj|d:\\github\\donationcrud\\crud_codeaffection\\models\\dcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E69073-72E4-4E1C-96F7-79AD23DCD3A1}|crud_codeAffection.csproj|solutionrelative:models\\dcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E69073-72E4-4E1C-96F7-79AD23DCD3A1}|crud_codeAffection.csproj|d:\\github\\donationcrud\\crud_codeaffection\\migrations\\20240718182712_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E69073-72E4-4E1C-96F7-79AD23DCD3A1}|crud_codeAffection.csproj|solutionrelative:migrations\\20240718182712_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 22,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DCandidateController.cs",
+              "DocumentMoniker": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\Controllers\\DCandidateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DCandidateController.cs",
+              "ToolTip": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\Controllers\\DCandidateController.cs",
+              "RelativeToolTip": "Controllers\\DCandidateController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T05:21:35.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T18:07:27.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwCsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:00:31.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonationDBContext.cs",
+              "DocumentMoniker": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\Models\\DonationDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\DonationDBContext.cs",
+              "ToolTip": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\Models\\DonationDBContext.cs",
+              "RelativeToolTip": "Models\\DonationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:53:01.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DCandidate.cs",
+              "DocumentMoniker": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\Models\\DCandidate.cs",
+              "RelativeDocumentMoniker": "Models\\DCandidate.cs",
+              "ToolTip": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\Models\\DCandidate.cs",
+              "RelativeToolTip": "Models\\DCandidate.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA0wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:35:30.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240718182712_InitialCreate.cs",
+              "DocumentMoniker": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\Migrations\\20240718182712_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240718182712_InitialCreate.cs",
+              "ToolTip": "D:\\GITHUB\\donationCRUD\\crud_codeAffection\\Migrations\\20240718182712_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240718182712_InitialCreate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBPwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:27:13.692Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
